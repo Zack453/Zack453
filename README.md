@@ -96,7 +96,6 @@ I am particularly focused on strengthening my skills in software development and
     </picture> 
   </a>
 </p>
-### Badges
 
 <b>My GitHub Stats</b>
 
