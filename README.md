@@ -10,6 +10,8 @@ I’m a second-year university student studying Application Development, with a 
 
 I am particularly focused on strengthening my skills in software development and continuously improving my ability to write efficient, clean code. I enjoy learning new technologies and applying them in projects, and I’m motivated to grow both technically and professionally while contributing to meaningful solutions. Outside of my academic work, I enjoy hiking and playing chess, which help me stay balanced and sharpen my strategic thinking.
 
+## Sills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
