@@ -3,9 +3,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ## About me
 
-Front End React/Native Developer
---------------------------------
-
 I’m a second-year university student studying Application Development, with a strong interest in building practical, user-focused digital solutions. Through my studies, I’ve developed a solid foundation in programming, problem-solving, and system design, and I enjoy turning ideas into functional applications.
 
 I am particularly focused on strengthening my skills in software development and continuously improving my ability to write efficient, clean code. I enjoy learning new technologies and applying them in projects, and I’m motivated to grow both technically and professionally while contributing to meaningful solutions. Outside of my academic work, I enjoy hiking and playing chess, which help me stay balanced and sharpen my strategic thinking.
