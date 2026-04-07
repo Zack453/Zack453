@@ -62,9 +62,7 @@ I am particularly focused on strengthening my skills in software development and
   <a href="https://supabase.io/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" title="Supabase" width="36" height="36" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-    </a>
+ 
 </p>
 
 ### Socials
