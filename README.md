@@ -33,38 +33,14 @@ I am particularly focused on strengthening my skills in software development and
 
 ### Socials
 
-
-  <a href="https://www.linkedin.com/in/zakariyya-cloete-43237b264/" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> 
-    </picture> 
-  </a>
-
-  <a href="https://www.instagram.com/notzakariyya/" target="_blank" rel="noreferrer">
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram" width="32" height="32" alt="Instagram" title="Instagram" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.dev.to/zakariyya" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" />
-    </picture> 
-  </a> 
-  <a href="https://www.stackoverflow.com/users/zakariyya" target="_blank" rel="noreferrer"> 
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> 
-    </picture> 
-  </a>
-</p>
-
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/zakariyya-cloete-43237b264/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"></a></td>
+<td><a href="https://www.instagram.com/notzakariyya/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"></a></td>
+<td><a href="https://www.dev.to/zakariyya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32"></a></td>
+<td><a href="https://www.stackoverflow.com/users/zakariyya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32"></a></td>
+</tr>
+</table>
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zack453">
