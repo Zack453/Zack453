@@ -31,14 +31,20 @@ I am particularly focused on strengthening my skills in software development and
 
 ### Socials
 
-<table>
-<tr>
-<td><a href="https://www.linkedin.com/in/zakariyya-cloete-43237b264/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32"></a></td>
-<td><a href="https://www.instagram.com/notzakariyya/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32"></a></td>
-<td><a href="https://www.dev.to/zakariyya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32"></a></td>
-<td><a href="https://www.stackoverflow.com/users/zakariyya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32"></a></td>
-</tr>
-</table>
+<p align="left">
+<a href="https://www.linkedin.com/in/zakariyya-cloete-43237b264/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/notzakariyya/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.dev.to/zakariyya">
+  <img src="https://img.shields.io/badge/DEV-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+</a>
+<a href="https://www.stackoverflow.com/users/zakariyya">
+  <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+</p>
 
 <b>My GitHub Stats</b>
 
