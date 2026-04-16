@@ -41,6 +41,7 @@ I am particularly focused on strengthening my skills in software development and
 <td><a href="https://www.stackoverflow.com/users/zakariyya"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32"></a></td>
 </tr>
 </table>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Zack453">
