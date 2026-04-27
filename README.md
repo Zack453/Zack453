@@ -45,9 +45,3 @@ I am particularly focused on strengthening my skills in software development and
   <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
 </p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Zack453">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zack453&stroke=ffffff&background=27272a&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
