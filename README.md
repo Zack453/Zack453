@@ -30,7 +30,6 @@ I am particularly focused on strengthening my skills in software development and
 </p>
 
 ### Socials
-
 <p align="left">
 <a href="https://www.linkedin.com/in/zakariyya-cloete-43237b264/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
