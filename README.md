@@ -31,4 +31,3 @@ I am particularly focused on strengthening my skills in software development and
 <a href="https://www.stackoverflow.com/users/zakariyya">
   <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
-</p>
